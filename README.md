@@ -42,7 +42,19 @@ Team Member :
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+
+
+Completed Task 3, Task 4, Task 5.
+
+Especially For Task 5: 
+Created a Classical PyTorch Model (conspicuity-detection.ipynb) with 100% train and validation accuracy with an estimated model size of only 32.28Mb.
+
+Using QML in Task 5 (qml-conspicuity-detection.ipynb):
+I have added a quantum circuit layer to the output of "fc3" layer of the original classical model (see the conspicuity-detection.ipynb notebook) to see how adding an extra quantum circuit layer affects the model and trained it. 
+I am unsure if it is properly working (executing the quantum circuit layer) (experts need to check it), even though it is giving some results.
+
+
+
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
