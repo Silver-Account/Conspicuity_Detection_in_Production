@@ -58,5 +58,5 @@ I am unsure if it is properly working (executing the quantum circuit layer) (exp
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+_Link a 5min. presentation recording or deck here._[Link](https://docs.google.com/presentation/d/1q8pCYlEHh_K1pViCNu-gykQnliTeeGgluzJkw55obzI/edit?usp=sharing)
 
